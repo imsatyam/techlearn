@@ -51,7 +51,7 @@ Each concept has:
    *  [Continuous Delivery](docs/devops_continuous_delivery/devops_continuous_delivery.md)
 
 * Extended Universe
-   *  [Comparison Problemss](docs/comparison_problems/comparison_problems.md)
+   *  [Comparison Problems](docs/comparison_problems/comparison_problems.md)
    *  [Networking](docs/networking/networking.md)
    *  [Mathematics](docs/mathematics/mathematics.md)
    *  [Testing](docs/testing/testing.md)
