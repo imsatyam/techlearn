@@ -39,7 +39,6 @@ We need to cover following topic at the very least to be comfortable with system
   * **ERD:** Basic understanding and ability to draw an ER diagram helps.
   
 ## Resources
-- [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 - [How long does it take to make a context switch](https://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html)
 - [Transactions across datacenters](https://www.youtube.com/watch?v=srOgpXECblk)
@@ -49,5 +48,6 @@ We need to cover following topic at the very least to be comfortable with system
 - [Fallacies of distributed computing](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 - [Github Repository | System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Github Repository | System Design](https://github.com/FreemanZhang/system-design)
+- [Github Repository | System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 
 ###### [Home](../../../README.md) > System  Design
