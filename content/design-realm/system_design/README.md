@@ -41,8 +41,13 @@ We need to cover following topic at the very least to be comfortable with system
 ## Resources
 - [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
-- https://github.com/donnemartin/system-design-primer
-- https://github.com/FreemanZhang/system-design
-
+- [How long does it take to make a context switch](https://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html)
+- [Transactions across datacenters](https://www.youtube.com/watch?v=srOgpXECblk)
+- [How to ace a system design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+- [Numbers everyone should know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
+- [Scalable we architecture and distributed systems](http://www.aosabook.org/en/distsys.html)
+- [Fallacies of distributed computing](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
+- [Github Repository | System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Github Repository | System Design](https://github.com/FreemanZhang/system-design)
 
 ###### [Home](../../../README.md) > System  Design
