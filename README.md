@@ -4,54 +4,54 @@ I created this repository to track things that I have learnt over a period of ti
 This repository is not very exhaustive on each topic. It is also a work in progress. 
 
 ## Table of Contents
-* [Pre-requisites](content/prerequisites/README.md)
-* [Things you must know](content/things_you_must_know/README.md)
+* [Pre-requisites](content/prerequisites)
+* [Things you must know](content/things_you_must_know)
 
 * Concept Realm
    *  [Computer Architecture](content/concept-realm/computer_architecture)
-   *  [Programming Paradigm](content/concept-realm/programming_paradigm/README.md)
+   *  [Programming Paradigm](content/concept-realm/programming_paradigm)
    *  Algorithm and Complexity
-        *  [Understanding Complexity](content/concept-realm/complexity/README.md)
-        *  [Algorithms](content/concept-realm/algorithm/algorithm.md)
-   *  [Data Structure](content/concept-realm/data_structure/README.md)
-   *  [Operating System](content/concept-realm/operating_system/README.md)
-   *  [Lock Free Programming](content/concept-realm/lock-free-programming/README.md)
-   *  [Distributed Systems](content/concept-realm/distributed-systems/README.md)
-   *  [Messaging](content/concept-realm/distributed-systems/README.md)
-   *  [Cryptography](content/concept-realm/cryptography/README.md)
+        *  [Understanding Complexity](content/concept-realm/complexity)
+        *  [Algorithms](content/concept-realm/algorithm)
+   *  [Data Structure](content/concept-realm/data_structure)
+   *  [Operating System](content/concept-realm/operating_system)
+   *  [Lock Free Programming](content/concept-realm/lock-free-programming)
+   *  [Distributed Systems](content/concept-realm/distributed-systems)
+   *  [Messaging](content/concept-realm/distributed-systems)
+   *  [Cryptography](content/concept-realm/cryptography)
     
 * Design Realm
    *  Modeling, Methodologies, Architecture
-       * [Microservices](content/design-realm/modeling_methodologies_arch/microservices/README.md)
-       * [UML](content/design-realm/modeling_methodologies_arch/uml/README.md)
-   *  [System Design](content/design-realm/system_design/README.md)
-   *  [Object Oriented System Design](content/design-realm/oo_system_design/README.md)
+       * [Microservices](content/design-realm/modeling_methodologies_arch/microservices)
+       * [UML](content/design-realm/modeling_methodologies_arch/uml)
+   *  [System Design](content/design-realm/system_design)
+   *  [Object Oriented System Design](content/design-realm/oo_system_design)
 
 * Programming Realm
    *  [Programming Languages](content/programming-realm/programming_language/programming_language.md)
-   *  [Design Patterns](content/programming-realm/design_pattern/README.md)
-   *  [Code Problems](content/programming-realm/code_problems/README.md)
-   *  [Programming Frameworks](content/programming-realm/framework/README.md)   
+   *  [Design Patterns](content/programming-realm/design_pattern)
+   *  [Code Problems](content/programming-realm/code_problems)
+   *  [Programming Frameworks](content/programming-realm/framework)   
 
 * Data Realm
-   *  [Cache](content/data-realm/cache/README.md)
-   *  [RDBMS](content/data-realm/rdbms/README.md)
-   *  [NoSQL](content/data-realm/nosql/README.md)
-   *  [Machine Learning](content/data-realm/machine_learning/README.md)
+   *  [Cache](content/data-realm/cache)
+   *  [RDBMS](content/data-realm/rdbms)
+   *  [NoSQL](content/data-realm/nosql)
+   *  [Machine Learning](content/data-realm/machine_learning)
    
 * Cloud Realm
-   *  [Amazon Web Services](content/cloud-realm/aws/README.md)
-   *  [Serverless Framework](content/cloud-realm/serverless_framework/README.md)
+   *  [Amazon Web Services](content/cloud-realm/aws)
+   *  [Serverless Framework](content/cloud-realm/serverless_framework)
    
 * DevOps Realm
-   *  [Docker](content/devops-realm/docker/README.md)
+   *  [Docker](content/devops-realm/docker)
    *  [Continuous Delivery](content/devops-realm/devops_continuous_delivery/devops_continuous_delivery.md)
 
 * Extended Universe
-   *  [Comparison Problems](content/extended-universe/comparison_problems/README.md)
-   *  [Networking](content/extended-universe/networking/README.md)
-   *  [Mathematics](content/extended-universe/mathematics/README.md)
-   *  [Testing](content/extended-universe/testing/README.md)
+   *  [Comparison Problems](content/extended-universe/comparison_problems)
+   *  [Networking](content/extended-universe/networking)
+   *  [Mathematics](content/extended-universe/mathematics)
+   *  [Testing](content/extended-universe/testing)
 
 ## References
 It is only fair to give due credit to the original content. This repository is created by reading content from various sources.
