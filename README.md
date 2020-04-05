@@ -8,7 +8,7 @@ This repository is not very exhaustive on each topic. It is also a work in progr
 * [Things you must know](content/things_you_must_know/README.md)
 
 * Concept Realm
-   *  [Computer Architecture](content/concept-realm/computer_architecture/README.md)
+   *  [Computer Architecture](content/concept-realm/computer_architecture)
    *  [Programming Paradigm](content/concept-realm/programming_paradigm/README.md)
    *  Algorithm and Complexity
         *  [Understanding Complexity](content/concept-realm/complexity/README.md)
