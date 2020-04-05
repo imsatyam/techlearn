@@ -2,7 +2,6 @@
 
 ### How does a computer work?
 
-<details>
 
 While we can read more and more about the computer architecture, it is absolutely imperative to know how the computer
 works in general.
@@ -21,8 +20,6 @@ works in general.
 #### Others
  - [Hey there CPU](https://www.youtube.com/watch?v=FZGugFqdr60&feature=youtu.be)
  - [Say Hi to Computer Memory](https://www.youtube.com/watch?v=fpnE6UAfbtU&feature=youtu.be)
-
-</details>
 
 
 
