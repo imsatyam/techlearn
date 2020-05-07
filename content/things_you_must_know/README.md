@@ -16,7 +16,10 @@ works in general.
  - [ALU - CourseEra Video](https://www.coursera.org/lecture/build-a-computer/unit-2-4-arithmetic-logic-unit-6ZS46)
  - [ALU - Video](https://www.youtube.com/watch?v=1I5ZMmrOfnA&feature=youtu.be)
 
-
+#### Boot and shutdown Processes
+ - [Boot Process](system-on-off/system-bootstrap.md)
+ - [Shutdown Process](system-on-off/system-shutdown.md)
+ 
 #### Others
  - [Hey there CPU](https://www.youtube.com/watch?v=FZGugFqdr60&feature=youtu.be)
  - [Say Hi to Computer Memory](https://www.youtube.com/watch?v=fpnE6UAfbtU&feature=youtu.be)

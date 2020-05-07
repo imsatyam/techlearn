@@ -28,10 +28,11 @@ This repository is not very exhaustive on each topic. It is also a work in progr
    *  [Object Oriented System Design](content/design-realm/oo_system_design)
 
 * Programming Realm
-   *  [Programming Languages](content/programming-realm/programming_language/programming_language.md)
+   *  [Programming Languages](content/programming-realm/programming_language)
    *  [Design Patterns](content/programming-realm/design_pattern)
    *  [Code Problems](content/programming-realm/code_problems)
-   *  [Programming Frameworks](content/programming-realm/framework)   
+   *  [Programming Frameworks](content/programming-realm/framework)
+   *  [Programming Libraries](content/programming-realm/libraries)   
 
 * Data Realm
    *  [Cache](content/data-realm/cache)
