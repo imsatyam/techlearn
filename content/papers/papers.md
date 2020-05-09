@@ -7,6 +7,6 @@
 * [How developers search for code](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 * [Spanner: Globally distributed database](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 * [Cassandra](http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF)
- 
+* [Scalable Bloom Filters](http://gsd.di.uminho.pt/members/cbm/ps/dbloom.pdf) 
 
 ###### [Home](../../README.md) > Papers

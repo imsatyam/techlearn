@@ -27,6 +27,12 @@
             
    * [Heap](https://medium.com/swlh/data-structures-heaps-b039868a521b)
    * [Graph](https://www.interviewcake.com/concept/java/graph)
+   * [Bloom Filters](https://llimllib.github.io/bloomfilter-tutorial/)
+        * [FNV Hash](http://isthe.com/chongo/tech/comp/fnv/)
+        * [Bloom Filters - Python Implementation (GeeksForGeeks)](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
+        * [Scalable Bloom Filters - Paper](http://gsd.di.uminho.pt/members/cbm/ps/dbloom.pdf)
+        * [Bloom Filters in Redis (Video)](https://www.youtube.com/watch?v=Z9_wrhdbSC4)
+        * [Redis Bloom Filter Documentation](https://oss.redislabs.com/redisbloom/Bloom_Commands/)
 
 ## Useful Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
