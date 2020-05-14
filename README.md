@@ -58,10 +58,17 @@ This repository is not very exhaustive on each topic. It is also a work in progr
 It is only fair to give due credit to the original content. This repository is created by reading content from various sources.
 Wherever possible, an attempt has been made to add a reference to the actual work. However, some of the web content is saved as
 .pdf file here to avoid an unpleasant situation if the article no longer exists. It also allows to have all relevant reading 
-material at one place.
+material at one place. I would like to thank the contributors on following websites (definitely not an exhaustive list) as I referred to their articles and examples:
+
+ * [Geeks For Geeks](https://www.geeksforgeeks.org/)
+ * [Medium](https://medium.com/)
+ * [Leetcode](https://leetcode.com/)
+ * [dZone](https://dzone.com/)
+ * [Tutorials Point](https://www.tutorialspoint.com/index.htm)
+ * [Java Revisited](https://javarevisited.blogspot.com/)
+ * [Geek Narrator](https://geeknarrator.com/about/)
 
 ## Collaboration
 It will be great if this repository can help you in any possible way. Please feel free to fork. I am also looking forward to know more about different technologies, languages and concepts. Your pull request will always be welcome.
 
 Happy learning!
-
